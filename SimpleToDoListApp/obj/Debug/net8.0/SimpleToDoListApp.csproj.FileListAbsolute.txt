@@ -1,0 +1,15 @@
+C:\Users\blago\Desktop\.NET\SimpleToDoListApp\bin\Debug\net8.0\SimpleToDoListApp.exe
+C:\Users\blago\Desktop\.NET\SimpleToDoListApp\bin\Debug\net8.0\SimpleToDoListApp.deps.json
+C:\Users\blago\Desktop\.NET\SimpleToDoListApp\bin\Debug\net8.0\SimpleToDoListApp.runtimeconfig.json
+C:\Users\blago\Desktop\.NET\SimpleToDoListApp\bin\Debug\net8.0\SimpleToDoListApp.dll
+C:\Users\blago\Desktop\.NET\SimpleToDoListApp\bin\Debug\net8.0\SimpleToDoListApp.pdb
+C:\Users\blago\Desktop\.NET\SimpleToDoListApp\obj\Debug\net8.0\SimpleToDoListApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blago\Desktop\.NET\SimpleToDoListApp\obj\Debug\net8.0\SimpleToDoListApp.AssemblyInfoInputs.cache
+C:\Users\blago\Desktop\.NET\SimpleToDoListApp\obj\Debug\net8.0\SimpleToDoListApp.AssemblyInfo.cs
+C:\Users\blago\Desktop\.NET\SimpleToDoListApp\obj\Debug\net8.0\SimpleToDoListApp.csproj.CoreCompileInputs.cache
+C:\Users\blago\Desktop\.NET\SimpleToDoListApp\obj\Debug\net8.0\SimpleToDoListApp.sourcelink.json
+C:\Users\blago\Desktop\.NET\SimpleToDoListApp\obj\Debug\net8.0\SimpleToDoListApp.dll
+C:\Users\blago\Desktop\.NET\SimpleToDoListApp\obj\Debug\net8.0\refint\SimpleToDoListApp.dll
+C:\Users\blago\Desktop\.NET\SimpleToDoListApp\obj\Debug\net8.0\SimpleToDoListApp.pdb
+C:\Users\blago\Desktop\.NET\SimpleToDoListApp\obj\Debug\net8.0\SimpleToDoListApp.genruntimeconfig.cache
+C:\Users\blago\Desktop\.NET\SimpleToDoListApp\obj\Debug\net8.0\ref\SimpleToDoListApp.dll
